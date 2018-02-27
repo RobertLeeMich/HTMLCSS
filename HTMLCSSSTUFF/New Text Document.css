@@ -1,0 +1,144 @@
+.div1 {
+background-repeat: no-repeat;
+height: 100%;
+width: 100%;
+position: absolute;
+}
+
+.topbar{
+border: black;
+border-style: solid;
+width: 98%;
+height: 5%;
+position: relative;
+}
+
+.divv{
+  position:relative;
+border: black;
+border-style:groove;
+height: 25%;
+width: 25%;
+float: left;
+margin-top: 2%;
+margin-right: 8%;
+margin-left: 2%;
+background-position: 37%;
+background-image: url(picture1.jpg)
+}
+
+.div2{
+  position:relative;
+border:magenta;
+border-style: groove;
+height: 25%;
+width: 25%;
+float:left;
+margin-top: 2%;
+margin-right: 10%;
+background-image: url(picture2.png);
+background-position: 5%, 5%;
+}
+
+.div3{
+border: blue;
+border-style: double;
+height: 25%;
+width: 25%;
+float: left;
+margin-top: 2%;
+background-image: url(picture3.jpg);
+background-position: -135px 0px;
+}
+
+.div4{
+border: black;
+border-style: ridge;
+height: 25%;
+width: 100%;
+float:left;
+clear: left;
+margin-top: 5%;
+margin-left: 2%;
+background-image: url(banner1.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+.div5{
+border: yellow;
+border-style: inset;
+height: 20%;
+width:100%;
+float:left;
+margin-top: 5%;
+margin-left: 2%;
+float: left;
+position:relative;
+}
+
+#a{
+  background-image: url();
+  border: black;
+  border-style: dashed;
+  width: 50%;
+  height: 50%;
+  float:left;
+  position: relative;
+}
+
+#b{
+  background-image: url();
+  border: black;
+  border-style: dashed;
+  width: 50%;
+  height: 50%;
+  float:left;
+  position: relative;
+}
+
+#c{
+  background-image: url();
+  border: black;
+  border-style: dashed;
+  width: 50%;
+  height: 42%;
+  float:left;
+  position: relative;
+}
+#d{
+  background-image: url();
+  border: black;
+  border-style: dashed;
+  width: 50%;
+  height: 42%;
+  float:left;
+  position: relative;
+}
+
+
+
+.bottombar{
+border: black;
+border-style: solid;
+width: 98%;
+height: 5%;
+float:left;
+margin-top: 5%;
+}
+
+#ul{
+  text-align:right;
+  margin-right: 10px;
+  font-family:fantasy;
+  font-size: 20px;
+  position: relative;
+  top: -10px;
+}
+
+li{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
