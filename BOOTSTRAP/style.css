@@ -4,14 +4,12 @@
 }
 
 #img1{
-  margin-top: 15%;
-  position:absolute;
-  top: -20;
-
+margin-top: 3.5em;
+position:absolute;
 }
 
 #xs-1{
-  height: 25%;
+  height: 15%;
 }
 
 ul{
@@ -20,7 +18,7 @@ ul{
   font-family: fantasy;
   font-size: 20px;
   position: relative;
-
+  top: 3.5em;
 }
 
 li{
@@ -30,9 +28,32 @@ li{
     display: inline;
 }
 
+#xs-2{
+  background:black;
+}
+
 #pic1{
   background-image: url(picture2.png);
   height: 75%;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+#p1{
+  position: absolute;
+}
+
+#pic2{
+height: 5em;
+float:right;
+position: relative;
+top: 3em;
+}
+
+#xs-3{
+  background:pink;
+}
+
+#xs-4{
+  background: yellow;
 }
